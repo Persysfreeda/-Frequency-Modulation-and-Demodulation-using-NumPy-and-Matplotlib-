@@ -102,4 +102,5 @@ __Output:__
 <img width="1621" height="1199" alt="Screenshot 2025-11-17 144915" src="https://github.com/user-attachments/assets/2b5980ed-0442-49e5-b1a9-98a49d60b7a3" />
 
 __Result:__
-The frequency modulation and demodulation were successfully implemented using Python. The message, carrier, FM signal, and recovered output were generated and verified correctly.
+ <img width="1511" height="787" alt="image" src="https://github.com/user-attachments/assets/473d5cbc-9e3c-4b1c-baa5-82ad37eda47f" />
+
