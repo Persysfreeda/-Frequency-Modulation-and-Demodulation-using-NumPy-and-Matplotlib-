@@ -91,6 +91,11 @@ plt.ylabel("Amplitude")
 plt.tight_layout()
 plt.show()
 ```
+__Calculation:__
+![WhatsApp Image 2025-11-22 at 6 53 09 PM](https://github.com/user-attachments/assets/d920c4c6-0175-48dc-b84b-df37ad65b9e0)
+
+__table:__
+![WhatsApp Image 2025-11-22 at 6 53 24 PM](https://github.com/user-attachments/assets/85e42e5a-5eec-4c30-94f9-11d14cd1057f)
 
 __Output:__
 
